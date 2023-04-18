@@ -221,9 +221,9 @@ void Lista::czasDodawania() {
     cout << endl;
     czasDodawania_poczatek();
     cout << endl;
-    //czasDodawania_koniec();
+    czasDodawania_koniec();
     cout << endl;
-    //czasDodawania_dowolnie();
+    czasDodawania_dowolnie();
     cout << endl;
 }
 
