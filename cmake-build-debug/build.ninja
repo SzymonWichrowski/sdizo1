@@ -51,43 +51,43 @@ build cmake_object_order_depends_target_sdizoP1: phony || CMakeFiles/sdizoP1.dir
 
 build CMakeFiles/sdizoP1.dir/main/main.cpp.obj: CXX_COMPILER__sdizoP1_Debug C$:/Users/Szymon$ Wichrowski/Desktop/studia/4$ semestr/sdizo/projekt1/sdizoP1/main/main.cpp || cmake_object_order_depends_target_sdizoP1
   DEP_FILE = CMakeFiles\sdizoP1.dir\main\main.cpp.obj.d
-  FLAGS = -g -fdiagnostics-color=always
+  FLAGS = -static-libstdc++ -static-libgcc -g -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\sdizoP1.dir
   OBJECT_FILE_DIR = CMakeFiles\sdizoP1.dir\main
 
 build CMakeFiles/sdizoP1.dir/menu/Menu.cpp.obj: CXX_COMPILER__sdizoP1_Debug C$:/Users/Szymon$ Wichrowski/Desktop/studia/4$ semestr/sdizo/projekt1/sdizoP1/menu/Menu.cpp || cmake_object_order_depends_target_sdizoP1
   DEP_FILE = CMakeFiles\sdizoP1.dir\menu\Menu.cpp.obj.d
-  FLAGS = -g -fdiagnostics-color=always
+  FLAGS = -static-libstdc++ -static-libgcc -g -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\sdizoP1.dir
   OBJECT_FILE_DIR = CMakeFiles\sdizoP1.dir\menu
 
 build CMakeFiles/sdizoP1.dir/tablica_dynamiczna/Tablica.cpp.obj: CXX_COMPILER__sdizoP1_Debug C$:/Users/Szymon$ Wichrowski/Desktop/studia/4$ semestr/sdizo/projekt1/sdizoP1/tablica_dynamiczna/Tablica.cpp || cmake_object_order_depends_target_sdizoP1
   DEP_FILE = CMakeFiles\sdizoP1.dir\tablica_dynamiczna\Tablica.cpp.obj.d
-  FLAGS = -g -fdiagnostics-color=always
+  FLAGS = -static-libstdc++ -static-libgcc -g -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\sdizoP1.dir
   OBJECT_FILE_DIR = CMakeFiles\sdizoP1.dir\tablica_dynamiczna
 
 build CMakeFiles/sdizoP1.dir/czas/Czas.cpp.obj: CXX_COMPILER__sdizoP1_Debug C$:/Users/Szymon$ Wichrowski/Desktop/studia/4$ semestr/sdizo/projekt1/sdizoP1/czas/Czas.cpp || cmake_object_order_depends_target_sdizoP1
   DEP_FILE = CMakeFiles\sdizoP1.dir\czas\Czas.cpp.obj.d
-  FLAGS = -g -fdiagnostics-color=always
+  FLAGS = -static-libstdc++ -static-libgcc -g -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\sdizoP1.dir
   OBJECT_FILE_DIR = CMakeFiles\sdizoP1.dir\czas
 
 build CMakeFiles/sdizoP1.dir/lista_dwukierunkowa/Lista.cpp.obj: CXX_COMPILER__sdizoP1_Debug C$:/Users/Szymon$ Wichrowski/Desktop/studia/4$ semestr/sdizo/projekt1/sdizoP1/lista_dwukierunkowa/Lista.cpp || cmake_object_order_depends_target_sdizoP1
   DEP_FILE = CMakeFiles\sdizoP1.dir\lista_dwukierunkowa\Lista.cpp.obj.d
-  FLAGS = -g -fdiagnostics-color=always
+  FLAGS = -static-libstdc++ -static-libgcc -g -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\sdizoP1.dir
   OBJECT_FILE_DIR = CMakeFiles\sdizoP1.dir\lista_dwukierunkowa
 
 build CMakeFiles/sdizoP1.dir/lista_dwukierunkowa/ElementListy.cpp.obj: CXX_COMPILER__sdizoP1_Debug C$:/Users/Szymon$ Wichrowski/Desktop/studia/4$ semestr/sdizo/projekt1/sdizoP1/lista_dwukierunkowa/ElementListy.cpp || cmake_object_order_depends_target_sdizoP1
   DEP_FILE = CMakeFiles\sdizoP1.dir\lista_dwukierunkowa\ElementListy.cpp.obj.d
-  FLAGS = -g -fdiagnostics-color=always
+  FLAGS = -static-libstdc++ -static-libgcc -g -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\sdizoP1.dir
   OBJECT_FILE_DIR = CMakeFiles\sdizoP1.dir\lista_dwukierunkowa
 
 build CMakeFiles/sdizoP1.dir/kopiec/Kopiec.cpp.obj: CXX_COMPILER__sdizoP1_Debug C$:/Users/Szymon$ Wichrowski/Desktop/studia/4$ semestr/sdizo/projekt1/sdizoP1/kopiec/Kopiec.cpp || cmake_object_order_depends_target_sdizoP1
   DEP_FILE = CMakeFiles\sdizoP1.dir\kopiec\Kopiec.cpp.obj.d
-  FLAGS = -g -fdiagnostics-color=always
+  FLAGS = -static-libstdc++ -static-libgcc -g -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\sdizoP1.dir
   OBJECT_FILE_DIR = CMakeFiles\sdizoP1.dir\kopiec
 
@@ -100,7 +100,8 @@ build CMakeFiles/sdizoP1.dir/kopiec/Kopiec.cpp.obj: CXX_COMPILER__sdizoP1_Debug 
 # Link the executable sdizoP1.exe
 
 build sdizoP1.exe: CXX_EXECUTABLE_LINKER__sdizoP1_Debug CMakeFiles/sdizoP1.dir/main/main.cpp.obj CMakeFiles/sdizoP1.dir/menu/Menu.cpp.obj CMakeFiles/sdizoP1.dir/tablica_dynamiczna/Tablica.cpp.obj CMakeFiles/sdizoP1.dir/czas/Czas.cpp.obj CMakeFiles/sdizoP1.dir/lista_dwukierunkowa/Lista.cpp.obj CMakeFiles/sdizoP1.dir/lista_dwukierunkowa/ElementListy.cpp.obj CMakeFiles/sdizoP1.dir/kopiec/Kopiec.cpp.obj
-  FLAGS = -g
+  FLAGS = -static-libstdc++ -static-libgcc -g
+  LINK_FLAGS = -static
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\sdizoP1.dir
   POST_BUILD = cd .

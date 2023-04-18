@@ -1,15 +1,15 @@
 # ninja log v5
 2	201	7030152538051440	CMakeFiles/sdizoP1.dir/main.cpp.obj	70be8aeed77fc8a0
 7	700	7030152543027349	CMakeFiles/sdizoP1.dir/Tablica.cpp.obj	d7ad9333d7501f0d
-11	432	7029975379465532	CMakeFiles/sdizoP1.dir/Czas.cpp.obj	144050bb96df9a1a
-3	503	7034070044865218	CMakeFiles/sdizoP1.dir/tablica_dynamiczna/Tablica.cpp.obj	7e6f949da615fcff
-837	964	7034788024304161	sdizoP1.exe	a85129e9dc95ff1d
 5	628	7030152542298642	CMakeFiles/sdizoP1.dir/Menu.cpp.obj	ddf5516b00ebad12
+8	1553	7035281293370633	CMakeFiles/sdizoP1.dir/tablica_dynamiczna/Tablica.cpp.obj	30e56b569e163f03
+1661	2247	7035281300303798	sdizoP1.exe	8c867c7d27e2be0f
+11	432	7029975379465532	CMakeFiles/sdizoP1.dir/Czas.cpp.obj	144050bb96df9a1a
 7	662	7029603658042768	CMakeFiles/sdizoP1.dir/CzasTablica.cpp.obj	1e54465937a40137
-3	263	7034868737362976	build.ninja	97e17e2f480641cd
-13	104	7032871320880277	CMakeFiles/sdizoP1.dir/lista_dwukierunkowa/ElementListy.cpp.obj	f99bd99e63f1a99b
-4	272	7034788017399381	CMakeFiles/sdizoP1.dir/main/main.cpp.obj	29073ab36c8a4e3c
-3	831	7034743089950220	CMakeFiles/sdizoP1.dir/lista_dwukierunkowa/Lista.cpp.obj	182bc3e355153282
-8	557	7034788020283372	CMakeFiles/sdizoP1.dir/czas/Czas.cpp.obj	ae2f2ea1646e9bdb
-7	795	7034788022658588	CMakeFiles/sdizoP1.dir/menu/Menu.cpp.obj	ac310e2fe986bb4a
-10	837	7034788023075735	CMakeFiles/sdizoP1.dir/kopiec/Kopiec.cpp.obj	a0ee827b812eed7e
+0	183	7035301859900296	build.ninja	97e17e2f480641cd
+21	107	7035281278966597	CMakeFiles/sdizoP1.dir/lista_dwukierunkowa/ElementListy.cpp.obj	824f75686900ebcf
+6	622	7035281284054769	CMakeFiles/sdizoP1.dir/main/main.cpp.obj	6003012afef5b48
+19	1651	7035281294397166	CMakeFiles/sdizoP1.dir/lista_dwukierunkowa/Lista.cpp.obj	bd3b51484afd5144
+13	1245	7035281290161253	CMakeFiles/sdizoP1.dir/czas/Czas.cpp.obj	5de4a5fc49435c2f
+3	1661	7035281294498655	CMakeFiles/sdizoP1.dir/menu/Menu.cpp.obj	b8866c0176c50feb
+108	1629	7035281294188263	CMakeFiles/sdizoP1.dir/kopiec/Kopiec.cpp.obj	d21edb5327a575e4
