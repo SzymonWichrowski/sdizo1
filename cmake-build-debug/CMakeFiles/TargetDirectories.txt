@@ -1,0 +1,3 @@
+C:/Users/Szymon Wichrowski/Desktop/studia/4 semestr/sdizo/projekt1/sdizoP1/cmake-build-debug/CMakeFiles/sdizoP1.dir
+C:/Users/Szymon Wichrowski/Desktop/studia/4 semestr/sdizo/projekt1/sdizoP1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Szymon Wichrowski/Desktop/studia/4 semestr/sdizo/projekt1/sdizoP1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
